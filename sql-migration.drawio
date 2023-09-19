@@ -1,0 +1,366 @@
+<mxfile host="Electron" modified="2023-09-19T15:12:23.537Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="mumvvRkvHlB9q2p0vieB" version="21.6.8" type="device">
+  <diagram name="Page-1" id="jEcPXM6trMZUlmo_38SP">
+    <mxGraphModel dx="2739" dy="1139" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-78" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#182E3E;fillColor=#B1DDF0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="1156" width="881" height="2991" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-79" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-737" y="1156" width="627" height="2994" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-4" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;imageAspect=0;rounded=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="-71" y="1792" width="583" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-57" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-35" y="1825" width="178" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-57">
+          <mxGeometry width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-8" value="Source SQL Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-57">
+          <mxGeometry x="68" y="19" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-21" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="203" y="1941" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-21">
+          <mxGeometry width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.sql_database;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-21">
+          <mxGeometry x="20" y="10" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-19" value="Copied Databases" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#81C484;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-21">
+          <mxGeometry x="29" y="60" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-92" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.sql_database;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-21">
+          <mxGeometry x="66.25" y="10" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-95" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.sql_database;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-21">
+          <mxGeometry x="112" y="10" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-58" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="1830" width="290" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;rounded=1;container=0;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-58">
+          <mxGeometry width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-17" value="migration SQL Server &lt;i&gt;&lt;b&gt;(for transfer only)&lt;/b&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-58">
+          <mxGeometry x="68" y="19" width="222" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;fontColor=#FFFFFF;strokeWidth=4;fillColor=#dae8fc;" edge="1" parent="1" source="WjYqjrTglz9rsnEQMJdx-1" target="WjYqjrTglz9rsnEQMJdx-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1" y="1922" />
+              <mxPoint x="234" y="1922" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-67" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-35" y="1937" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-67">
+          <mxGeometry width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-69" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.sql_database;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-67">
+          <mxGeometry x="20" y="10" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-70" value="Source Databases" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#81C484;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-67">
+          <mxGeometry x="29" y="60" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-90" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.sql_database;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-67">
+          <mxGeometry x="66.25" y="10" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-91" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.sql_database;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-67">
+          <mxGeometry x="115" y="10" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-53" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="112" y="1353" width="109.25" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-44" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-53">
+          <mxGeometry y="15" width="76" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-46" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-53">
+          <mxGeometry x="14" y="5" width="76" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-47" value="&lt;h5 style=&quot;border-color: var(--border-color); font-family: Tahoma; text-align: left; line-height: 18.592px;&quot;&gt;&lt;br&gt;&lt;/h5&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-53">
+          <mxGeometry x="33.25" width="76" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-72" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-558" y="1242" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-73" value="&lt;h5 style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 16px;&quot;&gt;Create a feature/branch in all 3 EXOS repos.&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;spacing=2;fontFamily=Tahoma;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-72">
+          <mxGeometry x="50" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-74" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-72">
+          <mxGeometry y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-75" value="EXOSBaseInfra" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/folder.svg;strokeColor=#BAC8D3;fontColor=#182E3E;fillColor=#B1DDF0;" vertex="1" parent="1">
+          <mxGeometry x="6" y="1182" width="36.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-76" value="EXOSBaseInfra-config" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/folder.svg;strokeColor=#BAC8D3;fontColor=#182E3E;fillColor=#B1DDF0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1211" width="36.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-77" value="EXOSBaseInfra-modules" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/folder.svg;strokeColor=#BAC8D3;fontColor=#182E3E;fillColor=#B1DDF0;" vertex="1" parent="1">
+          <mxGeometry x="172.25" y="1245" width="36.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-80" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-573" y="1366" width="458" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-81" value="&lt;h5 style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 16px;&quot;&gt;In `global/az_sql_migration_spec.tf`, set the source environment (i.e., `uat4`) in the local variable `az_sql_mig_instances.migration.install_in.env&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;spacing=2;fontFamily=Tahoma;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-80">
+          <mxGeometry x="76.58862876254182" width="381.41137123745824" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-82" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;2&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-80">
+          <mxGeometry x="20" y="29" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-83" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-586" y="1650" width="458" height="236" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-84" value="&lt;h5 style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Run pipelines `00` and `01` in the source environment (`uat4`) using the feature/branch. This will:&lt;/font&gt;&lt;/span&gt;&lt;/h5&gt;&lt;h5 style=&quot;line-height: 160%; font-size: 13px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Deploy a migration SQL server identical to the source SQL server.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Copy all databases from the source SQL server to the migration SQL server.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Set the TDE for both the migration SQL server and destination SQL server using the same CMK as the source SQL server&#39;s TDE.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;spacing=2;fontFamily=Tahoma;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-83">
+          <mxGeometry x="76.59" width="381.41" height="236" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-85" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;3&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-83">
+          <mxGeometry x="20" y="29" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.355;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#6c8ebf;fontColor=#FFFFFF;fillColor=#dae8fc;strokeWidth=4;" edge="1" parent="1" source="WjYqjrTglz9rsnEQMJdx-86" target="WjYqjrTglz9rsnEQMJdx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-86" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#6c8ebf;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="117.75" y="1579" width="91" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-87" value="&lt;h5 style=&quot;border-color: var(--border-color); line-height: 18.592px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-weight: normal; font-size: 16px;&quot;&gt;az_sql_migration_spec.tf&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;spacing=2;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="242" y="1384" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-88" value="&lt;h5 style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 16px;&quot;&gt;Run pipelines 00 and 01&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;spacing=2;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="242" y="1614" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-96" value="&lt;h5 style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 16px;&quot;&gt;Source Subscription&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;spacing=2;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="176.25" y="1752" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.453;entryY=0.11;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#6c8ebf;fontColor=#FFFFFF;fillColor=#dae8fc;strokeWidth=4;" edge="1" parent="1" source="WjYqjrTglz9rsnEQMJdx-44" target="WjYqjrTglz9rsnEQMJdx-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-98" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-577" y="2223" width="458" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-99" value="&lt;h5 style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 16px;&quot;&gt;&lt;font color=&quot;#f2b202&quot;&gt;(Manual)&lt;/font&gt; After databases finish copying to the migration SQL server, create a PIM request for the source subscription.&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;spacing=2;fontFamily=Tahoma;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-98">
+          <mxGeometry x="76.58862876254182" width="381.41137123745824" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-100" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;4&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-98">
+          <mxGeometry x="20" y="29" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.443;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#6c8ebf;fontColor=#FFFFFF;fillColor=#dae8fc;strokeWidth=4;" edge="1" parent="1" source="WjYqjrTglz9rsnEQMJdx-101" target="WjYqjrTglz9rsnEQMJdx-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="2230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-101" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/PIM.svg;strokeColor=#BAC8D3;fontColor=#182E3E;fillColor=#B1DDF0;" vertex="1" parent="1">
+          <mxGeometry x="89" y="2195" width="60" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-103" value="&lt;h5 style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 16px;&quot;&gt;PIM into source subscription&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;spacing=2;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="208.75" y="2183" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-104" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-586" y="2596" width="458" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-105" value="&lt;h5 style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 16px;&quot;&gt;&lt;font color=&quot;#f2b202&quot;&gt;(Manual)&lt;/font&gt;&amp;nbsp;Change the migration SQL server&#39;s TDE from CMK to MMK.&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;spacing=2;fontFamily=Tahoma;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-104">
+          <mxGeometry x="76.58862876254182" width="381.41137123745824" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-106" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;5&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-104">
+          <mxGeometry x="20" y="29" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-114" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-586" y="2935" width="458" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-115" value="&lt;h5 style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 16px;&quot;&gt;&lt;font color=&quot;#f2b202&quot;&gt;(Manual)&lt;/font&gt;&amp;nbsp;Create a PIM request for the destination subscription.&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;spacing=2;fontFamily=Tahoma;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-114">
+          <mxGeometry x="76.58862876254182" width="381.41137123745824" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-116" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;6&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-114">
+          <mxGeometry x="20" y="29" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-117" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-584" y="3223" width="458" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-118" value="&lt;h5 style=&quot;line-height: 160%; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#f2b202&quot;&gt;(Manual)&lt;/font&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Use the Azure portal to move the migration SQL server from the source subscription to the destination subscription.&lt;/span&gt;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;spacing=2;fontFamily=Tahoma;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-117">
+          <mxGeometry x="76.58862876254182" width="381.41137123745824" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-119" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;7&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-117">
+          <mxGeometry x="20" y="29" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-121" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;imageAspect=0;rounded=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="-30.5" y="3124" width="396" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;fontColor=#FFFFFF;fillColor=#dae8fc;strokeWidth=4;" edge="1" parent="1" source="WjYqjrTglz9rsnEQMJdx-122" target="WjYqjrTglz9rsnEQMJdx-121">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="139.83333333333348" y="2998.333333333333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-122" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/PIM.svg;strokeColor=#BAC8D3;fontColor=#182E3E;fillColor=#B1DDF0;" vertex="1" parent="1">
+          <mxGeometry x="138.5" y="2885" width="60" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-124" value="&lt;h5 style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 16px;&quot;&gt;PIM into destination subscription&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;spacing=2;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="2995" width="278" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-146" value="&lt;h5 style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 16px;&quot;&gt;Destination Subscription&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;spacing=2;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="3084" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-148" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="457" y="3137.5" width="290" height="171.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-137" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="WjYqjrTglz9rsnEQMJdx-148">
+          <mxGeometry y="81.5" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-138" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-137">
+          <mxGeometry width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-139" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.sql_database;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-137">
+          <mxGeometry x="20" y="10" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-140" value="Copied Databases" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#81C484;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-137">
+          <mxGeometry x="29" y="60" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-141" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.sql_database;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-137">
+          <mxGeometry x="66.25" y="10" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-142" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.sql_database;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-137">
+          <mxGeometry x="112" y="10" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-143" value="" style="group;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" connectable="0" parent="WjYqjrTglz9rsnEQMJdx-148">
+          <mxGeometry width="290" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-144" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;rounded=1;container=0;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-143">
+          <mxGeometry width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-145" value="migration SQL Server &lt;i&gt;&lt;b&gt;(for transfer only)&lt;/b&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-143">
+          <mxGeometry x="68" y="19" width="222" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-149" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#FFFFFF;fillColor=#dae8fc;strokeWidth=4;exitX=0.01;exitY=0.699;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WjYqjrTglz9rsnEQMJdx-144" target="WjYqjrTglz9rsnEQMJdx-121">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="579" y="3253" as="sourcePoint" />
+            <mxPoint x="629" y="3203" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-151" value="Move" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#182E3E;" vertex="1" connectable="0" parent="WjYqjrTglz9rsnEQMJdx-149">
+          <mxGeometry x="-0.06" y="2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-150" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="48.5" y="3142" width="207" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-127" value="" style="group" vertex="1" connectable="0" parent="WjYqjrTglz9rsnEQMJdx-150">
+          <mxGeometry x="9" width="198" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-128" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-127">
+          <mxGeometry width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-129" value="destination SQL Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-127">
+          <mxGeometry x="68" y="19" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-131" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="WjYqjrTglz9rsnEQMJdx-150">
+          <mxGeometry y="77" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-132" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-131">
+          <mxGeometry width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-133" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.sql_database;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-131">
+          <mxGeometry x="20" y="10" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-134" value="Destination Databases" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#81C484;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-131">
+          <mxGeometry x="12" y="60" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-135" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.sql_database;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-131">
+          <mxGeometry x="66.25" y="10" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-153" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-577" y="3633" width="458" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-154" value="&lt;h5 style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#f2b202&quot;&gt;(Manual)&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;In the destination subscription, change the newly moved migration SQL server&#39;s TDE from MMK to CMK and use the destination SQL server&#39;s CMK.&lt;/font&gt;&lt;/span&gt;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;spacing=2;fontFamily=Tahoma;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-153">
+          <mxGeometry x="76.58862876254182" width="381.41137123745824" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-155" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;8&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-153">
+          <mxGeometry x="20" y="29" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-156" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="153" y="3524" width="290" height="249" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-107" value="" style="group" vertex="1" connectable="0" parent="WjYqjrTglz9rsnEQMJdx-156">
+          <mxGeometry width="290" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-108" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;rounded=1;container=0;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-107">
+          <mxGeometry width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-109" value="migration SQL Server &lt;i&gt;&lt;b&gt;(for transfer only)&lt;/b&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-107">
+          <mxGeometry x="68" y="19" width="222" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-110" value="TDE" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_encryption_key;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-156">
+          <mxGeometry x="97" y="65" width="62" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-111" value="MMK" style="editableCssRules=.*;html=1;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjMxMC43NzU2MDY1NDM4NjAyNSIgaGVpZ2h0PSIzNzcuOTUzMDI4ODM1NTI1NDYiIHZpZXdCb3g9Ii0wLjE0MDAwMDAwMDU5NjA0NjQ1IC0wLjQ2NzAwMDAwNzYyOTM5NDUzIDgyLjIyNTk5NzkyNDgwNDY5IDEwMC4wMDAwMDc2MjkzOTQ1MyI+JiN4YTs8c3R5bGUgdHlwZT0idGV4dC9jc3MiPiYjeGE7CS5zdDB7ZmlsbDojNDI4NWY0O30mI3hhOwkuc3Qxe2ZpbGw6IzY2OWRmNjt9JiN4YTsJLnN0MntmaWxsOiNmZmY7fSYjeGE7PC9zdHlsZT4mI3hhOwk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNDAuOTczLS40NjdsNDEuMTEzIDE3LjQ5M3YyOS42NTRjMCAyNy40MTgtMjQuNjA4IDUwLjgzNi00MS4xMTMgNTIuODUzeiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik00MC45NzMtLjQ2N0wtLjE0IDE3LjAyNXYyOS42NTRjMCAyNy40MTggMjQuNjA4IDUwLjgzNiA0MS4xMTMgNTIuODUzeiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik00MS4yNTMgMTYuNjA1Yy05LjU4NCAwLTE3LjQ0NSA3Ljg2Mi0xNy40NDUgMTcuNDQ1IDAgOC4wODQgNS41OTQgMTQuOTQyIDEzLjA5NiAxNi44OTF2OS40ODhoLTkuODY5djguNzAxaDkuODY5djUuMzc3aC02LjMxNXY4LjcwMWg2LjMxNXYyLjE5N2g4LjcwMVY1MC45NDFDNTMuMTA2IDQ4Ljk5MiA1OC43IDQyLjEzNCA1OC43IDM0LjA1YzAtOS41ODQtNy44NjMtMTcuNDQ1LTE3LjQ0Ny0xNy40NDV6bTAgOC42OTlBOC42OCA4LjY4IDAgMCAxIDUwIDM0LjA1YTguNjggOC42OCAwIDAgMS04Ljc0OCA4Ljc0NiA4LjY4IDguNjggMCAwIDEtOC43NDYtOC43NDYgOC42OCA4LjY4IDAgMCAxIDguNzQ2LTguNzQ2eiIvPiYjeGE7PC9zdmc+;strokeColor=#BAC8D3;fontColor=#182E3E;fillColor=#B1DDF0;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-156">
+          <mxGeometry x="196" y="166" width="64.8" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;fontColor=#FFFFFF;strokeWidth=4;fillColor=#dae8fc;" edge="1" parent="WjYqjrTglz9rsnEQMJdx-156" source="WjYqjrTglz9rsnEQMJdx-111" target="WjYqjrTglz9rsnEQMJdx-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-152" value="Change" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#182E3E;" vertex="1" connectable="0" parent="WjYqjrTglz9rsnEQMJdx-113">
+          <mxGeometry x="-0.2116" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-112" value="CMK" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key_Vaults.svg;strokeColor=#BAC8D3;fontColor=#182E3E;fillColor=#B1DDF0;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-156">
+          <mxGeometry x="6" y="164" width="81.6" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-157" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="33" y="2509" width="290" height="249" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-158" value="" style="group" vertex="1" connectable="0" parent="WjYqjrTglz9rsnEQMJdx-157">
+          <mxGeometry width="290" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-159" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;rounded=1;container=0;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-158">
+          <mxGeometry width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-160" value="migration SQL Server &lt;i&gt;&lt;b&gt;(for transfer only)&lt;/b&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-158">
+          <mxGeometry x="68" y="19" width="222" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-161" value="TDE" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_encryption_key;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-157">
+          <mxGeometry x="97" y="65" width="62" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-162" value="MMK" style="editableCssRules=.*;html=1;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjMxMC43NzU2MDY1NDM4NjAyNSIgaGVpZ2h0PSIzNzcuOTUzMDI4ODM1NTI1NDYiIHZpZXdCb3g9Ii0wLjE0MDAwMDAwMDU5NjA0NjQ1IC0wLjQ2NzAwMDAwNzYyOTM5NDUzIDgyLjIyNTk5NzkyNDgwNDY5IDEwMC4wMDAwMDc2MjkzOTQ1MyI+JiN4YTs8c3R5bGUgdHlwZT0idGV4dC9jc3MiPiYjeGE7CS5zdDB7ZmlsbDojNDI4NWY0O30mI3hhOwkuc3Qxe2ZpbGw6IzY2OWRmNjt9JiN4YTsJLnN0MntmaWxsOiNmZmY7fSYjeGE7PC9zdHlsZT4mI3hhOwk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNDAuOTczLS40NjdsNDEuMTEzIDE3LjQ5M3YyOS42NTRjMCAyNy40MTgtMjQuNjA4IDUwLjgzNi00MS4xMTMgNTIuODUzeiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik00MC45NzMtLjQ2N0wtLjE0IDE3LjAyNXYyOS42NTRjMCAyNy40MTggMjQuNjA4IDUwLjgzNiA0MS4xMTMgNTIuODUzeiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik00MS4yNTMgMTYuNjA1Yy05LjU4NCAwLTE3LjQ0NSA3Ljg2Mi0xNy40NDUgMTcuNDQ1IDAgOC4wODQgNS41OTQgMTQuOTQyIDEzLjA5NiAxNi44OTF2OS40ODhoLTkuODY5djguNzAxaDkuODY5djUuMzc3aC02LjMxNXY4LjcwMWg2LjMxNXYyLjE5N2g4LjcwMVY1MC45NDFDNTMuMTA2IDQ4Ljk5MiA1OC43IDQyLjEzNCA1OC43IDM0LjA1YzAtOS41ODQtNy44NjMtMTcuNDQ1LTE3LjQ0Ny0xNy40NDV6bTAgOC42OTlBOC42OCA4LjY4IDAgMCAxIDUwIDM0LjA1YTguNjggOC42OCAwIDAgMS04Ljc0OCA4Ljc0NiA4LjY4IDguNjggMCAwIDEtOC43NDYtOC43NDYgOC42OCA4LjY4IDAgMCAxIDguNzQ2LTguNzQ2eiIvPiYjeGE7PC9zdmc+;strokeColor=#BAC8D3;fontColor=#182E3E;fillColor=#B1DDF0;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-157">
+          <mxGeometry x="196" y="166" width="64.8" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;fontColor=#FFFFFF;strokeWidth=4;fillColor=#dae8fc;" edge="1" parent="WjYqjrTglz9rsnEQMJdx-157" source="WjYqjrTglz9rsnEQMJdx-165" target="WjYqjrTglz9rsnEQMJdx-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-164" value="Change" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#182E3E;" vertex="1" connectable="0" parent="WjYqjrTglz9rsnEQMJdx-163">
+          <mxGeometry x="-0.2116" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-165" value="CMK" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key_Vaults.svg;strokeColor=#BAC8D3;fontColor=#182E3E;fillColor=#B1DDF0;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-157">
+          <mxGeometry x="6" y="164" width="81.6" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-166" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-584" y="3933" width="458" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-167" value="&lt;h5 style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#f2b202&quot;&gt;(Manual)&lt;/font&gt;&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;Request the team to delete databases from the destination SQL server.&lt;/span&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;spacing=2;fontFamily=Tahoma;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-166">
+          <mxGeometry x="76.59" width="381.41" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-168" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;9&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-166">
+          <mxGeometry x="20" y="29" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-169" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-591" y="4162" width="458" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-170" value="&lt;h5 style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#f2b202&quot;&gt;(Manual)&lt;/font&gt;&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;Copy databases from the migration SQL server to the destination SQL server.&lt;/span&gt;&lt;/font&gt;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;spacing=2;fontFamily=Tahoma;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-169">
+          <mxGeometry x="76.59" width="381.41" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="WjYqjrTglz9rsnEQMJdx-171" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;10&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="WjYqjrTglz9rsnEQMJdx-169">
+          <mxGeometry x="20" y="29" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
